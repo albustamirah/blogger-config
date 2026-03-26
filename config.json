@@ -72,5 +72,20 @@
       "term": "World",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/world.jpg"
     }
+    {
+      "term": "Radio 1",
+      "image": "https://i.imgur.com/8Km9tLL.png",
+      "stream_url": "http://streaming.radionomy.com/JamendoLounge"
+    },
+     {
+      "term": "Radio 2",
+      "image": "https://i.imgur.com/8Km9tLL.png",
+      "stream_url": "http://icecast.omroep.nl/radio1-bb-mp3"
+    },
+     {
+      "term": "Radio 3",
+      "image": "https://i.imgur.com/8Km9tLL.png",
+      "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm"
+    }
   ]
 }
