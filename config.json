@@ -1,8 +1,8 @@
 {
 	"app": {
 		"status": "1",
-		"ebook_pdf_url": "https://drive.google.com/uc?export=download&id=1VOdYSb-XCKKguHRGtVyr55AWXhnpHg90"
-		"ebook_description": "<h2>رحلة إلى عام 1899</h2><p>...</p>",
+		"ebook_pdf_url": "https://drive.google.com/file/d/1VOdYSb-XCKKguHRGtVyr55AWXhnpHg90/view?usp=sharing"
+		"ebook_description": "<p>رحلة إلى عام 1899<p>",
 		"allow_save_book_in_storage": "false",
 		"swipe_horizontal_reading_book": "true",
 		"show_scroll_handle_reading_book": "true",
