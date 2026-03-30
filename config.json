@@ -45,15 +45,45 @@
 		"interstitial_ad_interval": 3
 	},
 	"table_of_contents": [
-		 {
-      "page_title": "الرواية كاملة",
-      "page_number": 1
-    }
-		
-		
-		
-		
-		
-		
-	]
+  { "page_title": "الفصل 1", "page_number": 1 },
+  { "page_title": "الفصل 2", "page_number": 11 },
+  { "page_title": "الفصل 3", "page_number": 21 },
+  { "page_title": "الفصل 4", "page_number": 31 },
+  { "page_title": "الفصل 5", "page_number": 41 },
+  { "page_title": "الفصل 6", "page_number": 51 },
+  { "page_title": "الفصل 7", "page_number": 61 },
+  { "page_title": "الفصل 8", "page_number": 71 },
+  { "page_title": "الفصل 9", "page_number": 81 },
+  { "page_title": "الفصل 10", "page_number": 91 },
+  { "page_title": "الفصل 11", "page_number": 101 },
+  { "page_title": "الفصل 12", "page_number": 111 },
+  { "page_title": "الفصل 13", "page_number": 121 },
+  { "page_title": "الفصل 14", "page_number": 131 },
+  { "page_title": "الفصل 15", "page_number": 141 },
+  { "page_title": "الفصل 16", "page_number": 151 },
+  { "page_title": "الفصل 17", "page_number": 161 },
+  { "page_title": "الفصل 18", "page_number": 171 },
+  { "page_title": "الفصل 19", "page_number": 181 },
+  { "page_title": "الفصل 20", "page_number": 191 },
+  { "page_title": "الفصل 21", "page_number": 201 },
+  { "page_title": "الفصل 22", "page_number": 211 },
+  { "page_title": "الفصل 23", "page_number": 221 },
+  { "page_title": "الفصل 24", "page_number": 231 },
+  { "page_title": "الفصل 25", "page_number": 241 },
+  { "page_title": "الفصل 26", "page_number": 251 },
+  { "page_title": "الفصل 27", "page_number": 261 },
+  { "page_title": "الفصل 28", "page_number": 271 },
+  { "page_title": "الفصل 29", "page_number": 281 },
+  { "page_title": "الفصل 30", "page_number": 291 },
+  { "page_title": "الفصل 31", "page_number": 301 },
+  { "page_title": "الفصل 32", "page_number": 311 },
+  { "page_title": "الفصل 33", "page_number": 321 },
+  { "page_title": "الفصل 34", "page_number": 331 },
+  { "page_title": "الفصل 35", "page_number": 341 },
+  { "page_title": "الفصل 36", "page_number": 351 },
+  { "page_title": "الفصل 37", "page_number": 361 },
+  { "page_title": "الفصل 38", "page_number": 371 },
+  { "page_title": "الفصل 39", "page_number": 381 },
+  { "page_title": "الفصل 40", "page_number": 391 }
+]
 }
